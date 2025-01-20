@@ -1,0 +1,8 @@
+Faker==33.1.0
+numpy==1.24.4
+pandas==2.2.3
+plotly==5.9.0
+scikit_learn==1.6.1
+scikit_surprise==1.1.4
+streamlit==1.37.1
+surprise==0.1
