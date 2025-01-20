@@ -163,7 +163,7 @@ def analysis_page(data):
     st.markdown('<div class="section-title">Dashboard Overview</div>', unsafe_allow_html=True)
 
     # Filters Section: Enables data filtering by date range and category
-    st.subheader("Filters")
+    st.subheader("Filters - Filter Changes are updated dynamically in all the plots below")
     filter_col1, filter_col2 = st.columns(2)
 
     # Date filters: Start Date and End Date
@@ -231,7 +231,7 @@ def analysis_page(data):
         )
 
     # Product Profitability Analysis: Visualizes product-level profitability
-    st.markdown('<div class="section-title">Product Profitability Analysis</div>', unsafe_allow_html=True)
+    st.markdown('<div class="section-title">Product Profitability Analysis (Hover over data points for more details)</div>', unsafe_allow_html=True)
     product_fig, product_summary = product_profitability_analysis(filtered_data, selected_category)
     st.plotly_chart(product_fig, use_container_width=True)
     st.markdown(f'<div class="summary-box">{product_summary}</div>', unsafe_allow_html=True)
@@ -295,7 +295,7 @@ def segmentation_page(data):
     st.markdown("""
         <div style="background: white; padding: 20px; border-radius: 10px; 
                     box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-bottom: 30px;">
-            <h2 style="color: #4a5568; margin-bottom: 20px;">Customer Distribution</h2>
+            <h2 style="color: #4a5568; margin-bottom: 20px;">Customer Distribution - Hover over data points for added details</h2>
     """, unsafe_allow_html=True)
     st.plotly_chart(segmentation_fig, use_container_width=True)  # Embeds the plotly chart in the dashboard
     st.markdown("</div>", unsafe_allow_html=True)
