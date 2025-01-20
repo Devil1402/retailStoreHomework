@@ -99,3 +99,37 @@ This will start the Retail Store Dashboard web interface, where you can interact
 ---
 
 🌟 We hope this guide helps you set up and run the Contract Query ChatBot with ease! If you have any issues, feel free to create an issue on the [GitHub repository](https://github.com/Devil1402/retailStoreHomework/issues).
+
+---
+
+## Screenshots
+
+1. Dynamic Filtering
+<img width="1469" alt="image" src="https://github.com/user-attachments/assets/17eb03f8-ba58-41a8-8b24-79d2508aa55a" />
+
+2. Interractive plots
+<img width="1469" alt="image" src="https://github.com/user-attachments/assets/df926e12-a984-4ea3-b1e1-e643470f98a6" />
+
+3. Interractive Customer Segmentation Analysis
+<img width="1469" alt="image" src="https://github.com/user-attachments/assets/c298c792-23bb-4676-9979-5f5bd8da9500" />
+
+4. Robust Recommendation System
+<img width="1469" alt="image" src="https://github.com/user-attachments/assets/737180ea-00e2-4586-8630-8eafce9bed81" />
+
+5. Intuitive Business Reports
+<img width="1469" alt="image" src="https://github.com/user-attachments/assets/1716d7f7-84f8-462a-a792-a28633903c1b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
