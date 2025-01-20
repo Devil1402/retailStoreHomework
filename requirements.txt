@@ -1,5 +1,5 @@
 Faker==33.1.0
-numpy==1.24.4
+numpy>=1.26.0,<2.0.0
 pandas==2.2.3
 plotly==5.9.0
 scikit_learn==1.6.1
