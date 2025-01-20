@@ -1,6 +1,6 @@
 
 # Smart Retail Store Dashboard 
-## [Deployed Project](https://retailstore.streamlit.app)
+## The project has been deployed on the attached link: [Deployed Project](https://retailstore.streamlit.app)
 
 The Retail Store Customer Dashboard provides an intuitive interface for analyzing customer purchase behavior. It features data visualization, segmentation, and personalized recommendations to optimize decision-making. This tool empowers businesses to improve customer retention and enhance sales strategies.
 
