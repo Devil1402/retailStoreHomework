@@ -93,7 +93,7 @@ This will start the Retail Store Dashboard web interface, where you can interact
 
 ## 💡 Additional Notes
 - Ensure that all dependencies are properly installed in the virtual environment.
-- Data storage guidelines must be followed to ensure proper retrieval and parsing.
+- Data storage guidelines must be followed to ensure no errors.
 - The app can be customized further based on specific use cases and requirements.
 
 ---
